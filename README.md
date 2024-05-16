@@ -1,5 +1,5 @@
 <h1 align="center"> Hello👋, I'm Jerry</h1>
-<h3 align="center">
+ <h3 align="center">
   Software Engineer with over 2 years of experience building applications. 
 </h3>
 
