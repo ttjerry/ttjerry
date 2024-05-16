@@ -1,24 +1,24 @@
-<h1 align="center"> Hello👋, I'm Chimdi</h1>
+<h1 align="center"> Hello👋, I'm Jerry</h1>
 <h3 align="center">
-  Software Engineer with over 4 years of experience building applications in health, retail, finance, and crypto. 
+  Software Engineer with over 2 years of experience building applications. 
 </h3>
 
 <p align="left" style="font:"semibold">
   <ul>
-     <li><p> Backend (Typescript & NodeJS)</p></li>
-     <li><p> Frontend (ReactJS & NextJS)</p></li>
-     <li><p> Cloud (GCP & Ducker)</p></li>
+     <li><p> Backend (NodeJS)</p></li>
+     <li><p> Frontend (ReactJS & VueJS)</p></li>
+     <li><p> Cloud (AWS)</p></li>
   </ul>
 </p>
 
 
 
 <h3 algin="left">📫 Let's Work:</h3>
-<p>chimdi4332@gmail.com</p>
+<p>jeremiahegemonye12@gmail.com</p>
  
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://twitter.com/chimdixo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chimdixo" height="30" width="40" /></a>
+<a href="https://twitter.com/ttjerry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chimdixo" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chimdi-ezechukwu-48661a228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chimdi" height="30" width="40" /></a>
 <a href="https://kaggle.com/divthecreator" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chimdi" height="30" width="40" /></a>
 <a href="https://fb.com/chimdindu ezechukwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chimdindu ezechukwu" height="30" width="40" /></a>
