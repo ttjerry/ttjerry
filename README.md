@@ -36,8 +36,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
  
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="40" height="40"/>
+  <a href="https://aws.amazon.com/">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/>
   </a>
   
   <a href="https://reactjs.org/">
