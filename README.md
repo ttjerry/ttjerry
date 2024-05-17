@@ -40,8 +40,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
@@ -53,29 +53,30 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg" alt="bash" width="40" height="40"/>
+   
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/terraform-icon.svg" alt="tensorflow" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform" width="40" height="40"/>
   </a>
 </p>
 
 
 
 <h3 align="left">Work</h3>
-<p>Portfolio: https://heischimdi.vercel.app </p>
+<p>Portfolio: https://jerrycodes.vercel.app</p>
 
 
 <h3 algin="left">Profile Visits:</h3>
-<p align="left" > <img style="padding:2px; margin:4px;" src="https://komarev.com/ghpvc/?username=coderdivine&label=Profile%20views&color=0e75b6&style=flat" alt="coderdivine" /> </p>
+<p align="left" > <img style="padding:2px; margin:4px;" src="https://komarev.com/ghpvc/?username=ttjerry&label=Profile%20views&color=0e75b6&style=flat" alt="ttjerry" /> </p>
 
 <details>
 <summary>Details</summary>
-<p><img align="left" style="padding:2px; margin:4px;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=coderdivine&show_icons=true&locale=en&layout=compact" alt="coderdivine" /></p>
-<p>&nbsp;<img align="center" style="padding:2px; margin:4px;"  src="https://github-readme-stats.vercel.app/api?username=coderdivine&show_icons=true&locale=en" alt="coderdivine" /></p>
-<p><img align="center" style="padding:2px; margin:4px;"  src="https://github-readme-streak-stats.herokuapp.com/?user=coderdivine&" alt="coderdivine" /></p>
+<p><img align="left" style="padding:2px; margin:4px;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ttjerry&show_icons=true&locale=en&layout=compact" alt="coderdivine" /></p>
+<p>&nbsp;<img align="center" style="padding:2px; margin:4px;"  src="https://github-readme-stats.vercel.app/api?username=ttjerry&show_icons=true&locale=en" alt="coderdivine" /></p>
+<p><img align="center" style="padding:2px; margin:4px;"  src="https://github-readme-streak-stats.herokuapp.com/?user=ttjerry&" alt="coderdivine" /></p>
 </details>
