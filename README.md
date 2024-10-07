@@ -1,6 +1,6 @@
 <h1 align="center"> Hello👋, I'm Jerry</h1>
  <h3 align="center">
-  Software Engineer with over 2 years of experience building applications. 
+  Software Engineer
 </h3>
 
 <p align="left" style="font:"semibold">
@@ -40,14 +40,8 @@
   <a href="https://reactjs.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://kubernetes.io/">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-  </a>
   <a href="https://tailwindcss.com/">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
