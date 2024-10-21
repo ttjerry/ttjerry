@@ -1,12 +1,12 @@
 <h1 align="center"> Hello👋, I'm Jerry</h1>
  <h3 align="center">
-  Software Engineer
+  Frontend Software Engineer
 </h3>
 
 <p align="left" style="font:"semibold">
   <ul>
      <li><p> Frontend (ReactJS & VueJS)</p></li>
-     <li><p> Backend (NodeJS)</p></li>
+     <li><p> Backend (Golang)</p></li>
      <li><p> Cloud (AWS)</p></li>
   </ul>
 </p>
@@ -29,8 +29,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
  
-  <a href="https://nodejs.org">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <a href="https://go.dev">
+    <img src="https://images.app.goo.gl/Ww5FrSq6EzYjCNzB6" alt="nodejs" width="40" height="40"/>
   </a>
  
   <a href="https://aws.amazon.com/">
@@ -58,9 +58,9 @@
 <h3 algin="left">Profile Visits:</h3>
 <p align="left" > <img style="padding:2px; margin:4px;" src="https://komarev.com/ghpvc/?username=ttjerry&label=Profile%20views&color=0e75b6&style=flat" alt="ttjerry" /> </p>
 
-<details>
+
 <summary>Details</summary>
-<p><img align="left" style="padding:2px; margin:4px;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ttjerry&show_icons=true&locale=en&layout=compact" alt="coderdivine" /></p>
-<p>&nbsp;<img align="center" style="padding:2px; margin:4px;"  src="https://github-readme-stats.vercel.app/api?username=ttjerry&show_icons=true&locale=en" alt="coderdivine" /></p>
-<p><img align="center" style="padding:2px; margin:4px;"  src="https://github-readme-streak-stats.herokuapp.com/?user=ttjerry&" alt="coderdivine" /></p>
-</details>
+<p><img align="left" style="padding:2px; margin:4px;"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ttjerry&show_icons=true&locale=en&layout=compact" alt="ttjerry" /></p>
+<p>&nbsp;<img align="center" style="padding:2px; margin:4px;"  src="https://github-readme-stats.vercel.app/api?username=ttjerry&show_icons=true&locale=en" alt="ttjerry" /></p>
+
+
